@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="AIDL" injector-id="xml">
+      <display-name>android.support.v4.widget.DrawerLayout</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().matches("android.support.v4.widget.DrawerLayout"))]]></place>
+    </injection>
+  </component>
+</application>
